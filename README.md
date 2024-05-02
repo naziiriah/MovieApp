@@ -22,3 +22,7 @@ Launches the test runner in the interactive mode.
 I used Cypress for Handling test,
 Before running E2E tests, ensure that your local development server is up and running. Cypress is optimized for local development, allowing you to test and develop simultaneously.
 
+Tests are located under the cypress folder, under e2e folder, the test is todo.cy.js:
+
+https://github.com/naziiriah/movieApp/blob/master/cypress/e2e/1-getting-started/todo.cy.js
+
